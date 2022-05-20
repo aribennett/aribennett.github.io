@@ -22,7 +22,7 @@ Scipy, Numpy, Opencv and use of AI Models for kinematic modeling, path planning,
 
 ## Work Experience
 ### The Hillman Group, Resharp Technology Director, 2019 to present  
-Created architecture and tools to enable scaling of Resharp nationally
+Created architecture and tools to enable scaling of Resharp nationally and lead new product R&D
 ### Resharp, Co-Founder and CTO, 2017-2019  
 Lead full stack product development and invention
 ### Stanford Product Realization Lab Teaching Assistant, 2015-2017  
