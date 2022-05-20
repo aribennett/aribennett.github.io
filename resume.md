@@ -24,7 +24,7 @@ Interdisciplinary engineer with experience in software, mechatronics, and design
 ---
 
 ### Programming
-Python, C++, C, C#, Java, Javascript, Matlab, PIC Assembly, SQL, Terraform, AWS
+Python, C++, C, C#, Java, Javascript, Matlab, PIC Assembly, SQL, Terraform, AWS, Vue, React
 ### Computer Aided Design
 Solidworks, Fusion 360, Autocad, EagleCAD, Altium, KiCad, Rhino, HSMWorks, GCode
 ### Prototyping
