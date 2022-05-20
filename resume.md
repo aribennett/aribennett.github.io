@@ -1,14 +1,16 @@
 # Ari Bennett
 aridbennett@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www.aribennett.com (Design Portfolio)
 
-Interdisciplinary engineer with experience in software, mechatronics, and design. Experience taking mechatronic products from invention to scaled manufacturing and operation.
+Interdisciplinary engineer with experience in software, mechatronics, and design. Experience taking mechatronic products from initial prototype to scaled manufacturing and operation.
 
 ### The Hillman Group, Technology Director, 2019 to present  
 * Developed a Linux platform used for a kiosk put into nationwide service
+* Led architecture development and integration for a nationally scaled product fleet with a team of engineers as part of the acquisition
 * Built out services managing communications, robotic controls, software deployment, firmware deployment, user interaction, observability and analytics
-* Created tools, data model and underlying architecture for the operation of a distributed fleet of machines, and to enable continuous improvement to anticipate customer needs and perform fleetwide prognostics
-* Integrated numerous other software systems as part of the acquisition, and led architecture development for a nationally scaled product fleet with a team of engineers
-* Developed controls systems for multiple products, including motor commutation, feedback control, inverse kinematics, toolpathing, computer vision and path planning
+* Created tools, data model and underlying architecture for the operation of a distributed fleet of machines to enable continuous improvement, anticipate customer needs and perform fleetwide prognostics and diagnostics
+* Designed motor commutation and feedback control systems for multiple products to reduce cost and improve reliability.
+* Implemented computational strategies for inverse kinematics, toolpathing, computer vision and path planning
+* Spearheaded research and development for new product initiatives
 ### Resharp, Co-Founder and CTO, 2017 to 2019 (acquired 2019)
 * Led initial mechanical, electronic, and software prototyping and development before growing the team and taking over managing the technical requirements and execution of all three disciplines
 * Ran reliability testing to validate full stack design and built the tests and observability tools required to close the loop and refine products
