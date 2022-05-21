@@ -5,15 +5,15 @@ Interdisciplinary engineer with experience in software, mechatronics, and design
 <br>
 
 ### The Hillman Group, Technology Director, 2019 to present  
-* Developed a Linux platform used for a kiosk put into nationwide service
-* Led architecture development and integration for a nationally scaled product fleet with a team of engineers as part of the acquisition
-* Built out services managing communications, robotic controls, software deployment, firmware deployment, user interaction, observability and analytics
-* Created tools, data model and underlying architecture for the operation of a distributed fleet of machines to enable continuous improvement, anticipate customer needs and perform fleetwide prognostics and diagnostics
+* Developed a Linux platform deployed on 2000 kiosks nationwide.
+* Led a multidisciplinary team integrating the Resharp product into the existing MinuteKEY management and observability platform
+* Designed and built out services managing communications, robotic controls, software deployment, firmware deployment, user interaction, observability and analytics on hundreds of deployed kiosks
+* Directed a team of engineers doing research and development on a next generation key kiosk
+* Architected and implemented tools, data model and underlying architecture for the operation of a distributed fleet of machines to enable continuous improvement, anticipate customer needs and perform fleetwide prognostics and diagnostics
+* Invented computational strategies for inverse kinematics, toolpathing, computer vision and path planning
 * Designed motor commutation and feedback control systems for multiple products to reduce cost and improve reliability
-* Implemented computational strategies for inverse kinematics, toolpathing, computer vision and path planning
-* Spearheaded research and development for new product initiatives
-### Resharp, Co-Founder and CTO, 2017 to 2019 (acquired 2019)
-* Led initial mechanical, electronic, and software prototyping and development before growing the team and managing the technical requirements and execution of all three disciplines
+### Resharp, Co-Founder and CTO, 2017 to 2019 (acquired bu the Hillman Group)
+* Led initial mechanical, electronic, and software prototyping and development while growing the team and managing the technical requirements and execution of all three disciplines
 * Ran reliability testing to validate full stack design and built the tests and observability tools required to close the loop and refine products
 ### Stanford Product Realization Lab Teaching Assistant, 2015-2017  
 * Coached introductory and advanced design courses at the Stanford Product Realization Lab as a teaching assistant. Instructed over 500 students how to execute their projects and how to approach ideas from the standpoint of feasibility, value and aesthetic
