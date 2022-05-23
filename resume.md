@@ -11,13 +11,13 @@ aridbennett@gmail.com<span>www.aribennett.com (Design Portfolio)</span>
 * Developed a Linux platform deployed on 2000 kiosks nationwide
 * Led a multidisciplinary team integrating the Resharp product into the existing MinuteKEY management and observability platform, eliminating the need for dedicated Resharp customer service and support staff
 * Designed and built out services managing communications, robotic controls, software deployment, firmware deployment, user interaction, observability and analytics on hundreds of deployed kiosks
-* Architected and implemented tools, data model and underlying architecture for the operation of a distributed fleet of machines to enable continuous improvement, and reduce on call load to near zero
+* Architected and implemented tools, data model and underlying architecture for operating a distributed fleet of machines to enable continuous improvement and reduced the on call load to near zero
 * Designed motor commutation and feedback control systems to reduce cost and improve reliability and obeservability of embedded systems, allowing remote troubleshooting and history analysis of hardware issues
 ### Resharp 
 #### Cofounder and CTO  <span>2017 to 2019 (acquired by the Hillman Group)</span>
-* Led initial mechanical, electronic, and software prototyping and development while for an automated knife sharpening kiosk (resharp.com).
-* Grew the team and managed the technical requirements and execution of all three disciplines
-* Ran reliability testing to validate full stack design and built the tests and observability tools required to close the loop and refine products
+* Led initial mechanical, electronic, and software prototyping and development for an automated knife sharpening kiosk deployed as a "hardware as a service" product (resharp.com)
+* Grew the team and managed the execution of all three disciplines, leading integration and top level design
+* Ran reliability testing to validate full stack design and built the tests and observability tools required to close the loop and extend kiosk life
 ### Stanford Product Realization Lab
 #### Teaching Assistant <span>2015 to 2017</span>
 * Coached introductory and advanced design courses at the Stanford Product Realization Lab as a teaching assistant. Instructed over 500 students how to execute their projects and how to approach ideas from the standpoint of feasibility, value and aesthetic
