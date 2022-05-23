@@ -18,8 +18,8 @@ aridbennett@gmail.com<span>www.aribennett.com (Design Portfolio)</span>
 * Led initial mechanical, electronic, and software prototyping and development while for an automated knife sharpening kiosk (resharp.com).
 * Grew the team and managed the technical requirements and execution of all three disciplines
 * Ran reliability testing to validate full stack design and built the tests and observability tools required to close the loop and refine products
-### Stanford Product Realization 
-#### Lab Teaching Assistant <span>2015 to 2017</span>
+### Stanford Product Realization Lab
+#### Teaching Assistant <span>2015 to 2017</span>
 * Coached introductory and advanced design courses at the Stanford Product Realization Lab as a teaching assistant. Instructed over 500 students how to execute their projects and how to approach ideas from the standpoint of feasibility, value and aesthetic
 * Ran operations, training and safety oversight in the Product Realization Lab Machine shop
 * Taught graduate coursework in computational 3D printing design
