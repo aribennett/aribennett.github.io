@@ -12,7 +12,7 @@ aridbennett@gmail.com<span>www.aribennett.com (Design Portfolio)</span>
 * Led a multidisciplinary team integrating the Resharp product into the existing MinuteKEY management and observability platform, eliminating the need for dedicated Resharp customer service and support staff
 * Designed and built out services managing communications, robotic controls, software deployment, firmware deployment, user interaction, observability and analytics on hundreds of deployed kiosks
 * Architected and implemented tools, data model and underlying architecture for operating a distributed fleet of machines to enable continuous improvement and reduced the on call load to near zero
-* Designed motor commutation and feedback control systems to reduce cost and improve reliability and obeservability of embedded systems, allowing remote troubleshooting and history analysis of hardware issues
+* Created motor commutation and feedback control systems to reduce cost and improve reliability and obeservability of embedded systems, allowing remote troubleshooting and history analysis of hardware issues
 ### Resharp 
 #### Cofounder and CTO  <span>2017 to 2019 (acquired by the Hillman Group)</span>
 * Led initial mechanical, electronic, and software prototyping and development for an automated knife sharpening kiosk deployed as a "hardware as a service" product (resharp.com)
