@@ -23,7 +23,7 @@ aridbennett@gmail.com<span>www.aribennett.com (Design Portfolio)</span>
 * Coached introductory and advanced design courses at the Stanford Product Realization Lab as a teaching assistant. Instructed over 500 students how to execute their projects and how to approach ideas from the standpoint of feasibility, value and aesthetic
 * Ran operations, training and safety oversight in the Product Realization Lab Machine shop
 * Taught graduate coursework in computational 3D printing design
-### Boosted Boards, 
+### Boosted Boards 
 #### Mechatronics Intern <span>2015</span>  
 * Designed an electric skateboard controller and managed user testing and DFM
 ### KIWI GMBH
